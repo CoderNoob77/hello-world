@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I'm human
+Make me a programmer
